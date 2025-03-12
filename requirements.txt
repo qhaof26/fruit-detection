@@ -1,16 +1,15 @@
 # pip install tensorflow
 # pip install keras
 # pip install opencv-python
-# pip install numpy
-# pip install pandas
-# pip install matplotlib
-# pip install torch torchvision
-# pip install ultralytics
-# pip install -U label-studio
-tensorflow
-keras
-opencv-python
-numpy
-pandas
-matplotlib
-ultralytics
+# Thư viện cho giao diện người dùng (PyQt5)
+PyQt5==5.15.9
+
+# Thư viện xử lý ảnh và video
+opencv-python==4.8.0.76
+numpy==1.23.5
+
+# Thư viện YOLOv8
+ultralytics==8.0.43
+
+# Thư viện hỗ trợ các tính năng bổ sung
+collections-extended==1.0.3
