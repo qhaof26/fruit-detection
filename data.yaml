@@ -1,0 +1,7 @@
+path: E:/Code/Python/PythonProject/fruit_v0/dataset_yolo
+test: ../test/images
+train: ../train/images
+val: ../valid/images
+
+nc: 4  # Số lượng class
+names: ["Apple", "Banana", "Guava", "Orange"]

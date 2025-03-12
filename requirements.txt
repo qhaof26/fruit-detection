@@ -1,0 +1,16 @@
+# pip install tensorflow
+# pip install keras
+# pip install opencv-python
+# pip install numpy
+# pip install pandas
+# pip install matplotlib
+# pip install torch torchvision
+# pip install ultralytics
+# pip install -U label-studio
+tensorflow
+keras
+opencv-python
+numpy
+pandas
+matplotlib
+ultralytics
