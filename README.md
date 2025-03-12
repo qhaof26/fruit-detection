@@ -29,7 +29,9 @@ Ensure that the pre-trained model file best.pt is placed in the models/ director
 You can retrain the model using your dataset.
 Alternatively, download the best.pt file from an external source and place it in the models/ folder.
 
-### Usage
+---
+
+## Usage
 #### Step 1: Run the Application
 Run the main script of the project:
 ```
@@ -44,3 +46,13 @@ Detect Fruits :
 After selecting an image, the application will automatically detect fruits using the YOLOv8 model.
 View Results :
 Detected fruits will be marked on the image, and their names will be displayed.
+
+----
+## Example Output
+#### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+
+#### Predict
+![pre1](v8_pre1.png)
+---
+![pre2](v8_pre2.png)
